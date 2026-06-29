@@ -13,12 +13,12 @@ This case study analyzes how Uber transformed urban mobility through its asset-l
 - Challenges
 - Future Growth
 
-## Medium Article
+## Medium Article case study
 Read the complete article here:
 
 https://medium.com/@jidnyasadthakre7/uber-how-a-three-tap-experience-transformed-urban-mobility-without-owning-a-single-vehicle-309a2f78bce7
 
-## Skills Demonstrated
+### Skills Demonstrated
 
 - Business Analysis
 - Business Strategy
